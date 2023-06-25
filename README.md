@@ -27,3 +27,6 @@ Packet payload analysis
 
 # System Overview
 ![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/ea1f5315-fa05-455d-a1e7-04736deb3792)
+
+# RTT1: Transport Layer Protocol
+![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/77074c7f-dcf2-4493-b7ec-57b751946819)
