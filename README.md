@@ -24,3 +24,6 @@ Packet payload analysis
 # Motivations
 1. Existing datasets are often outdated or overly complex, missing new traffic patterns and VPN services.
 2. Existing methods struggle to create efficient, lightweight real-time VPN detection systems suitable for all application types, with optimal response times
+
+# System Overview
+![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/ea1f5315-fa05-455d-a1e7-04736deb3792)
