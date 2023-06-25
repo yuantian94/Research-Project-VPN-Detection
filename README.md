@@ -65,4 +65,26 @@ Primary attributes:
   ![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/38f32ebc-c159-45f0-9c55-79ee5ee19c92)
   ![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/b4c08a15-b51f-4c3e-92d9-f7c334577e68)
 
+- The Nearest Neighbors Approximation provides accurate RTT2 estimates based on these observations:
+  - Malicious VPN users typically lack control over nearby packet routing devices.
+  - VPN packet routing devices are usually located close to the VPN.
+  - ICMP protocols of essential routing devices, like regional or subnet gateways, are unlikely to be disabled.
+
+# Experiment Setup Overview
+![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/aaaf50c0-7d42-4edb-9216-47d1aa923014)
+
+- Experiment Setup Type Examples - VPN
+  ![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/6f4daa71-6721-47fe-90b1-916b298a3eb5)
+  - short - a pair of locations situated within the same region
+  - long - a pair of location situated in distinct regions
+
+- Experiment Setup Type Examples - Non-VPN
+  ![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/4d7a9026-3b51-4577-a824-c41f60b99463)
+
+
+  
+
+
+  
+
 
