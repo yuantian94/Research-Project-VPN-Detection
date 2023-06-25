@@ -7,3 +7,17 @@ Repo consists of:
   4. Preliminary study results
 
 # Problem statement
+![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/6a734e35-09f0-4085-a410-da6b43cab077)
+
+# Research landscape
+Table of known VPN domains/IPs
+  Incomplete coverage
+  Resource-intensive
+
+ISCXVPN2016 or time-related datasets
+  Low generalizability
+  Unsuitable for real-time use
+
+Packet payload analysis
+  Comparable challenges
+
