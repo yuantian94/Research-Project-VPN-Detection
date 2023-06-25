@@ -54,4 +54,14 @@ Primary attributes:
 
   ![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/676fb916-fce8-45bf-8616-74c68096dad3)
 
+- Algorithm Definition
+  ![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/0e395446-d346-4a9f-92cf-ca1eb1db12f8)
+  ![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/33bbbf3c-11fd-4a3e-a5d2-a5e0f09aa9a2)
+  ![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/e092b25a-5794-46a8-a4a0-cc3dbbc09ecc)
+
+  RTT1: there way handshake
+  RTT2: Traceroute to the Nearest Neighbor (Approx.)
+  ![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/38f32ebc-c159-45f0-9c55-79ee5ee19c92)
+  ![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/b4c08a15-b51f-4c3e-92d9-f7c334577e68)
+
 
