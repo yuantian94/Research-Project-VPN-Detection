@@ -100,6 +100,9 @@ Refer to "dataset" folder:
   - long (540 datapoints, 108 config)
   - short (540 datapoints, 108 config)
 
+*config: refer to "exp" file
+*shortlong: this is difficult case where the client and VPN are situated very close to each other -> RTT1 value is very close to RTT2 value
+
   
 
 
