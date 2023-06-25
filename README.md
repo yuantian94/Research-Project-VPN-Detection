@@ -11,13 +11,13 @@ Repo consists of:
 
 # Research landscape
 Table of known VPN domains/IPs
-  Incomplete coverage
-  Resource-intensive
+  1. Incomplete coverage
+  2. Resource-intensive
 
 ISCXVPN2016 or time-related datasets
-  Low generalizability
-  Unsuitable for real-time use
+  1. Low generalizability
+  2. Unsuitable for real-time use
 
 Packet payload analysis
-  Comparable challenges
+  1. Comparable challenges
 
