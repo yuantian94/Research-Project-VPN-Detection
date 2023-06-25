@@ -92,7 +92,7 @@ Primary attributes:
 # Dataset
 Refer to "dataset" folder:
 - Raw dataset
-  - wireshark network files that capture entire network traffic sessions
+  - wireshark network pcap files that capture entire network traffic sessions
 
 - Processed dataset*
   - VPN dataset (1350 datapoints)
