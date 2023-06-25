@@ -21,3 +21,6 @@ ISCXVPN2016 or time-related datasets
 Packet payload analysis
   1. Comparable challenges
 
+# Motivations
+1. Existing datasets are often outdated or overly complex, missing new traffic patterns and VPN services.
+2. Existing methods struggle to create efficient, lightweight real-time VPN detection systems suitable for all application types, with optimal response times
