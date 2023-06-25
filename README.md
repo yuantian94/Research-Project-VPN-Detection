@@ -81,9 +81,24 @@ Primary attributes:
 - Experiment Setup Type Examples - Non-VPN
   ![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/4d7a9026-3b51-4577-a824-c41f60b99463)
 
+# Hardware and Software
+- Program language: Python 3.8
+- Cloud infrastructure: AWS EC2 ubuntu t1.micro
+- VPN framework: OpenVPN
+- Network traffic monitoring: Wireshark, tShark, PyShark
+- Traffic generation protocol: SSH
+- Traceroute framework: Scapy
 
-  
-
+# Dataset
+Refer to "dataset" folder:
+- VPN dataset (1350 datapoints)
+  - longlong (270 datapoints, 54 config*)
+  - longshort (270 datapoints, 54 config)
+  - shortlong* (540 datapoints, 108 config)
+  - shortshort (270 datapoints, 54 config)
+- Non-VPN dataset (1080 datapoints)
+  - long (540 datapoints, 108 config)
+  - short (540 datapoints, 108 config)
 
   
 
