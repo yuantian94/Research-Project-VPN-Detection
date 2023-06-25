@@ -44,4 +44,14 @@ Primary attributes:
 - RTT1 derives from the time interval between the ACK/SYN packet and the ACK packet during a TCP three-way handshake.
 - A three-way handshake is a fundamental process used in computer networking to establish a connection between two devices. (TCP:HTTP/HTTPS, FTP, SFTP, SMTP, IMAP, POP3, Telnet, NNTP)(QUIC)(SCTP)(BGP)
 
+# RTT2: Nearest Neighbors Approximation
+- Attempted methods (failed)
+  - SSH: lack prior knowledage of open destination port
+  - PING: VPN's ICMP protocol can be disabled
+  - TCP Reset Attack - A VPN transmits all types of packets without discrimination
+- Traceroute (UNIX)
+  - Traceroute identifies network paths and round-trip times by sending ICMP echo requests with increasing TTL values to the destination. Each router decreases the TTL; when it reaches zero, an ICMP Time Exceeded message returns to the source, revealing routers along the path.
+
+  ![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/676fb916-fce8-45bf-8616-74c68096dad3)
+
 
