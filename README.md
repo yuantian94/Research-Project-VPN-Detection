@@ -7,23 +7,28 @@ Repo consists of:
   4. Preliminary study results
 
 # Problem statement
-![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/6a734e35-09f0-4085-a410-da6b43cab077)
+![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/5109ef96-d81e-4cc0-9b28-aa8d56c50e05)
+
+Reasons to detect VPN traffic:
+- Network security (anonymity network)
+- Geolocation restrictions
+- Content licensing
 
 # Research landscape
 Table of known VPN domains/IPs
-  1. Incomplete coverage
-  2. Resource-intensive
+- Incomplete coverage
+- Resource-intensive
 
 ISCXVPN2016 or time-related datasets
-  1. Low generalizability
-  2. Unsuitable for real-time use
+- Low generalizability
+- Unsuitable for real-time use
 
 Packet payload analysis
-  1. Comparable challenges
+- Comparable challenges
 
 # Motivations
-1. Existing datasets are often outdated or overly complex, missing new traffic patterns and VPN services.
-2. Existing methods struggle to create efficient, lightweight real-time VPN detection systems suitable for all application types, with optimal response times
+- Existing datasets are often outdated or overly complex, missing new traffic patterns and VPN services.
+- Existing methods struggle to create efficient, lightweight real-time VPN detection systems suitable for all application types, with optimal response times
 
 # System Overview
 ![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/a694302e-6cf9-4a8d-b2b6-532aae109eb6)
