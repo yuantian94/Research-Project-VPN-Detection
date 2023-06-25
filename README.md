@@ -26,7 +26,11 @@ Packet payload analysis
 2. Existing methods struggle to create efficient, lightweight real-time VPN detection systems suitable for all application types, with optimal response times
 
 # System Overview
-![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/ea1f5315-fa05-455d-a1e7-04736deb3792)
+![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/a694302e-6cf9-4a8d-b2b6-532aae109eb6)
+Primary attributes:
+  RTT1
+  RTT2
+  Ratio of RTT2 over RTT1: RTT2/RTT1
 
 # RTT1: Transport Layer Protocol
 ![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/77074c7f-dcf2-4493-b7ec-57b751946819)
