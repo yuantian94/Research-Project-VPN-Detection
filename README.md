@@ -27,10 +27,16 @@ Packet payload analysis
 
 # System Overview
 ![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/a694302e-6cf9-4a8d-b2b6-532aae109eb6)
+
 Primary attributes:
 - RTT1
 - RTT2
 - Ratio of RTT2 over RTT1: RTT2/RTT1
 
 # RTT1: Transport Layer Protocol
-![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/77074c7f-dcf2-4493-b7ec-57b751946819)
+![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/f2dacd8d-1395-4188-a548-be287d3a04c2)
+
+- RTT1 derives from the time interval between the ACK/SYN packet and the ACK packet during a TCP three-way handshake.
+- A three-way handshake is a fundamental process used in computer networking to establish a connection between two devices. (TCP:HTTP/HTTPS, FTP, SFTP, SMTP, IMAP, POP3, Telnet, NNTP)(QUIC)(SCTP)(BGP)
+
+
