@@ -91,14 +91,20 @@ Primary attributes:
 
 # Dataset
 Refer to "dataset" folder:
-- VPN dataset (1350 datapoints)
-  - longlong (270 datapoints, 54 config*)
-  - longshort (270 datapoints, 54 config)
-  - shortlong* (540 datapoints, 108 config)
-  - shortshort (270 datapoints, 54 config)
-- Non-VPN dataset (1080 datapoints)
-  - long (540 datapoints, 108 config)
-  - short (540 datapoints, 108 config)
+- Raw dataset
+  - wireshark network files that capture entire network traffic sessions
+
+- Processed dataset*
+  - VPN dataset (1350 datapoints)
+    - longlong (270 datapoints, 54 config*)
+    - longshort (270 datapoints, 54 config)
+    - shortlong* (540 datapoints, 108 config)
+    - shortshort (270 datapoints, 54 config)
+  - Non-VPN dataset (1080 datapoints)
+    - long (540 datapoints, 108 config)
+    - short (540 datapoints, 108 config)
+
+*Processed dataset: provide upon request, please contact author.
 
 *config: refer to "exp" file
 
