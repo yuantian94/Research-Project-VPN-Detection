@@ -110,6 +110,13 @@ Refer to "dataset" folder:
 
 *shortlong: this is difficult case where the client and VPN are situated very close to each other -> RTT1 value is very close to RTT2 value
 
+# Preminary Results
+- Boxplot sample dataset
+  ![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/04c423c9-b8ea-4669-9948-e135da5d4541)
+
+- Machine Learning & Binary Classification results
+  ![image](https://github.com/yuantian94/Research-Project-VPN-Detection/assets/13746207/7a40c563-d8a1-4664-80f7-ee12408bde92)
+  *Model Detail: 10-fold cross-validation
   
 
 
